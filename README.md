@@ -41,3 +41,5 @@ The paypal.txt is prefilled for this Paypal columns:
 |  | KSt2 |
 | Beschreibung + Absender E-Mail-Adresse + Rechnungsnummer + Zugehöriger Transaktionscode | Notizen |
 
+## How to use the importscript
+[How to use MonkeyOffice importdefinitions]([http://www.monkey-office.de/ "Prosaldo Website"](https://www.monkey-office.de/doc/Importdefinition_anlegen.html#28443458)https://www.monkey-office.de/doc/Importdefinition_anlegen.html#28443458)
